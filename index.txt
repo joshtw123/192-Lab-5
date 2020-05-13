@@ -1,3 +1,4 @@
+6/05/2020
 My name is Joshua Wong.
 I am 18 years old and was born in Vancouver, Canada.
 I like video games and Japanese music.
@@ -5,3 +6,5 @@ I am a first year science student majoring in IT Management at the University of
 I am also studying CS101, CS110 and CS120 alonsgide INFOMGMT192 during S1 2020
 I am a Christian
 My parents are both from Hong Kong and I have family all around the world
+13/05/2020
+Moved folder locations, so trying to update my github
